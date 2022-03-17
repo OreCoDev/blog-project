@@ -1,0 +1,22 @@
+@import "./index.css";
+@import url('https://fonts.googleapis.com/css2?family=Hurricane&family=Inspiration&display=swap');
+
+.heroHere {
+    background-image: url("../blog-images/canyonNight.jpg");
+}
+.heroTextHere {
+    font-family: 'Hurricane', cursive;
+    color: blanchedalmond;
+    font-size: 2.5em;
+}
+ article {
+    padding-top: 4%;
+    text-align: center;
+  }
+
+.avatar{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    border: 2px solid #161616;
+}
